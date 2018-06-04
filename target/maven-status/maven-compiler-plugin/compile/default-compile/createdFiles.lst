@@ -1,0 +1,5 @@
+cl\acg\_23people\springrest\model\Persona.class
+cl\acg\_23people\springrest\repository\PersonaRepository.class
+cl\acg\_23people\springrest\Application.class
+cl\acg\_23people\springrest\controller\PersonaController.class
+cl\acg\_23people\springrest\exception\PersonaNotFoundException.class
